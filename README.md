@@ -38,4 +38,12 @@ Courses |
 [Algorithms: Design and Analysis, Part 1 - Coursera](https://www.coursera.org/learn/algorithm-design-analysis)|
 [R Programming - Coursera](https://www.coursera.org/learn/r-programming)|
 
+### SQL
+
+Courses | 
+:-- | 
+[SQL Queries](https://academy.vertabelo.com/course/sql-queries)|
+[Operating on Data in SQL](https://academy.vertabelo.com/course/operating-on-data-in-sql)| 
+[Creating Tables in SQL](https://academy.vertabelo.com/course/creating-tables-in-sql)|
+
 
